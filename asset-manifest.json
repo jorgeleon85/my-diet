@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-diet/static/css/main.d1b05096.chunk.css",
+    "main.js": "/my-diet/static/js/main.087d3352.chunk.js",
+    "main.js.map": "/my-diet/static/js/main.087d3352.chunk.js.map",
+    "runtime-main.js": "/my-diet/static/js/runtime-main.79910df8.js",
+    "runtime-main.js.map": "/my-diet/static/js/runtime-main.79910df8.js.map",
+    "static/js/2.5d8d2006.chunk.js": "/my-diet/static/js/2.5d8d2006.chunk.js",
+    "static/js/2.5d8d2006.chunk.js.map": "/my-diet/static/js/2.5d8d2006.chunk.js.map",
+    "index.html": "/my-diet/index.html",
+    "precache-manifest.3d31da7e183f10790f53db6521ed5f19.js": "/my-diet/precache-manifest.3d31da7e183f10790f53db6521ed5f19.js",
+    "service-worker.js": "/my-diet/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/my-diet/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.5d8d2006.chunk.js.LICENSE.txt": "/my-diet/static/js/2.5d8d2006.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/my-diet/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79910df8.js",
+    "static/js/2.5d8d2006.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.087d3352.chunk.js"
+  ]
+}
